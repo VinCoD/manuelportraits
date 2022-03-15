@@ -1,4 +1,4 @@
-#!/home/vin/Desktop/Projects/Python/Django/manuelportraits/venv/bin/python
+#!/home/vin/Desktop/Projects/Python/django/manuelportraits/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
